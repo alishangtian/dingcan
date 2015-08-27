@@ -3,11 +3,12 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link rel="shortcut icon"
+	href="<%=request.getContextPath()%>/staticfile/img/favicon.ico"
+	type="image/x-icon" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>result</title>
+<title>订餐</title>
 </head>
-<body>
-	${f1}
-	<br> ${f2}
+<body>你好
 </body>
 </html>
